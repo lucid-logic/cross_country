@@ -44,7 +44,7 @@ As each wave starts phone B should record the start time. Phone B should have as
 
 At the end of the race stop the timers on both phones and share the records via email.
 
-## Entering data into the spreadsheest
+## Entering data into the spreadsheet
 
 Paste the wave time data (From phone B) into the Waves worksheet (you may need to shift the rows down a row so 0 is 0:00:00)
 Confirm the Wave Adjust at the top of each age group worksheet is correct.
