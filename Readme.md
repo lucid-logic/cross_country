@@ -26,7 +26,7 @@ Print out each age group page so placenumber can be recorded on the day.
 
 ## On the day
 
-[Download a suitable timing app] (https://volunteer.parkrun.com/principles/virtual-volunteer)
+[Download a suitable timing app](https://volunteer.parkrun.com/principles/virtual-volunteer)
 
 Run the app on two phones and on both phones use the timing mode.
 
