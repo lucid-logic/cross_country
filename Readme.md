@@ -1,4 +1,4 @@
-# Excel Spreadsheets for School Cross Country Timing
+# Excel spreadsheets for school cross country timing
 
 ## Background
 
@@ -14,7 +14,7 @@ The excel will record them as 12 minutes (42 minutes deducting 30 minutes for wa
 
 People from different waves can finish in between each other and the system will not care
 
-## Pre Race day Prep
+## Pre race day prep
 
 Download the Excel Spreadsheet
 
